@@ -1,4 +1,4 @@
-income = float(input("Enter your income: "))
+income = float(input("Enter your income:  "))
 if income <= 250000:
     tax = 0
 elif income <= 500000:
