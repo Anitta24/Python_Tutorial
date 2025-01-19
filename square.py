@@ -5,6 +5,7 @@ if num < 0:
 else:
     print("Square root  = ", num ** 0.5)"""
 
+#square root using iteration method:
 
 number=int(input("Enter a number:"))
 z=1
