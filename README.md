@@ -1,1 +1,1 @@
-This is our python elective tutoriala for practice.
+This is our python elective tutorial for practice.
