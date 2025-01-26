@@ -1,4 +1,4 @@
-inp = open("input.txt", "r")
+inp= open("input.txt", "r")
 
 text = inp.read()
 
